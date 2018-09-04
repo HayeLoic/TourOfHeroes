@@ -1,3 +1,7 @@
 .main-title {
   margin-left: 10px;
 }
+
+.custom-container {
+  max-width: 100%;
+}
