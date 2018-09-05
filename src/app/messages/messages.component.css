@@ -1,3 +1,7 @@
-  .btn-clear-messages {
-    margin-bottom: 10px;
-  }
+.btn-clear-messages {
+  margin-bottom: 10px;
+}
+
+.custom-alert {
+  max-width: 800px;
+}
